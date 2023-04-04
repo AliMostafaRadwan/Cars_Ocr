@@ -9,6 +9,11 @@ Use the package manager git to install the repo.
 ```bash
 git clone https://github.com/AliMostafaRadwan/Cars_Ocr.git
 ```
+yolov5 repo
+```bash
+git clone https://github.com/ultralytics/yolov5.git
+```
+
 
 ## requirements 
 
