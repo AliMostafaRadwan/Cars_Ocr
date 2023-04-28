@@ -7,7 +7,7 @@ from paddleocr import PaddleOCR
 
 class ObjectDetection:
     """
-    Class implements Yolo5 model to make inferences on a youtube video using OpenCV.
+    Class implements Yolo5 model to make inferences on a youtube video using OpenCV .
     """
     
     def __init__(self):
